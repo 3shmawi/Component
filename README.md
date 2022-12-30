@@ -1,6 +1,6 @@
 # code
 
-A new Flutter project which has just all components i'll use it at any project later insha2allh.
+A new Flutter project which just has all components i'll use it at any project later insha2allh.
 
 ## Getting Started
 
